@@ -1,0 +1,9 @@
+{
+    "ossystem": [
+        {
+            "osversion": 11,
+            "osname": "debian",
+            "oscodename": "bullseye"
+        }
+    ]
+}
