@@ -4,6 +4,11 @@
             "osversion": 11,
             "osname": "debian",
             "oscodename": "bullseye"
+        },
+        {
+            "osversion": 12,
+            "osname": "debian",
+            "oscodename": "testing"
         }
     ]
 }
